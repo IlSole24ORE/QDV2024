@@ -18,7 +18,7 @@ Il Gruppo 24 ORE è il principale gruppo editoriale multimediale attivo in Itali
 
 ### File 20241216_QDV2024_001.csv ###
 
-Questo file contiene i dati e i descrittori dei 90 indicatori utilizzati per comporre la classifica della Qualità della Vita 2023:
+Questo file contiene i dati e i descrittori dei 90 indicatori utilizzati per comporre la classifica della Qualità della Vita 2024:
 
 Nome del campo | Descrizione | Formato | Esempio
 -------------- | ----------- | ------- | -------
