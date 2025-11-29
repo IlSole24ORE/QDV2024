@@ -1,7 +1,7 @@
 # Qualità della Vita 2024 #
 
 ## Cos'è ##
-La trentacoinquesima edizione della tradizionale classifica annuale con la quale Il Sole 24 ORE premia le province italiane che hanno ottenuto le migliori performance in una serie di indicatori scelti come paradigmatici per valutare il benessere personale e familiare.
+La trentacinquesima edizione della tradizionale classifica annuale con la quale Il Sole 24 ORE premia le province italiane che hanno ottenuto le migliori performance in una serie di indicatori scelti come paradigmatici per valutare il benessere personale e familiare.
 
 ## Edizione 2024 ##
 L'edizione 2024 è stata pubblicata su Il Sole 24 ORE di *Lunedì 16 Dicembre 2024* e sul sito [www.ilsole24ore.com](https://www.ilsole24ore.com)
@@ -16,7 +16,7 @@ Il Gruppo 24 ORE è il principale gruppo editoriale multimediale attivo in Itali
 
 ## Struttura dei dati ##
 
-### File 20231216_QDV2024_001.csv ###
+### File 20241216_QDV2024_001.csv ###
 
 Questo file contiene i dati e i descrittori dei 90 indicatori utilizzati per comporre la classifica della Qualità della Vita 2023:
 
